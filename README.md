@@ -1,2 +1,4 @@
-# Tasky-Application
-I have tried to build this application with the help of my mentor at DevTown. This Tasky application includes adding a new task and also has edit and delete function to operate the particular task. 
+# Tasky-Application-using-HTML-and-CSS
+Here I made a clone of a note taking application named Tasky, brushed up my HTML &amp; CSS basics. This appplication is made based on Front-End portion (HTML &amp; CSS) only; no Back-End is used here.
+
+
